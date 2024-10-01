@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+*.eggs/
+dist/
+build/
+env/
+venv/
+.Python
+.pytest_cache/
+coverage.xml
+*.coverage
+*.cover
+*.log
+
+# Docker
+*.dockerignore
+# Dockerfile
+# docker-compose.yml
+docker-compose.override.yml
+docker-compose.prod.yml
+docker-compose.dev.yml
+.docker/
+.dockerignore
+
+# VS Code
+.vscode/
+.history/
+
+# PyCharm
+.idea/
+*.iml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment variables
+# .env
